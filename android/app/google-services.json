@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924035808645",
+    "project_id": "learningprojects-1eee8",
+    "storage_bucket": "learningprojects-1eee8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924035808645:android:e0309e627d127dd31f58ec",
+        "android_client_info": {
+          "package_name": "com.devtestify.pixtagger.pixtagger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TEuXPSXVXKsb8kyDBHxmGV9L1VBBlQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
